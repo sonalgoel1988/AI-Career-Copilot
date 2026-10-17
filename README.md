@@ -20,7 +20,7 @@ The AI Career Copilot takes a candidate's resume and career goal, searches live 
 
 ## Architecture
 
-![AI Career Copilot Architecture](AI-Career-Copilot-Architecture.png)
+![AI Career Copilot Architecture](AI-Career-copilot-Architecture.png)
 
 ## Workflow
 
