@@ -105,4 +105,18 @@ This project demonstrates practical experience with:
 
 ## Project Outcome
 
+## Screenshots
+
+### 1. Automation Workflow
+
+![Make.com Workflow](screenshots/01_workflow.png)
+
+### 2. Job Matching Results
+
+![Job Matching Results](screenshots/02_job_results.png)
+
+### 3. Final Career Recommendations
+
+![Career Recommendations](screenshots/03_career_recommendations.png)
+
 The final workflow transforms a resume and career goal into a structured analysis of relevant job opportunities and the skills the candidate should prioritize developing.
